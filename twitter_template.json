@@ -1,5 +1,5 @@
 {
-  "template": "twitter_elastic_example",
+  "template": "twitter_API",
   "settings": {
     "number_of_shards": 1,
     "number_of_replicas": 0
